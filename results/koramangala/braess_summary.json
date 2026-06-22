@@ -1,0 +1,84 @@
+{
+  "baseline_system_cost_min_veh": 27807.8521,
+  "edges_tested": 75,
+  "edges_reliable": 75,
+  "braess_edges_found": 6,
+  "braess_edges_reliable": 6,
+  "braess_rate_pct": 8.0,
+  "max_improvement_pct": -7.7415,
+  "avg_improvement_braess_pct": -5.3805,
+  "top_braess_edges": [
+    {
+      "u": 5942550426,
+      "v": 11494201269,
+      "street_name": "(unnamed road)",
+      "highway": "primary",
+      "length_m": 36.8,
+      "delta_cost": -2142.1208,
+      "pct_change": -7.7033,
+      "redundancy_score": 0.8103964747253715,
+      "betweenness": 0.05247301433864991,
+      "convergence_gap": 7.207996197206533e-05
+    },
+    {
+      "u": 11494201269,
+      "v": 11494185466,
+      "street_name": "(unnamed road)",
+      "highway": "primary",
+      "length_m": 10.6,
+      "delta_cost": -2142.1208,
+      "pct_change": -7.7033,
+      "redundancy_score": 0.8103964747253715,
+      "betweenness": 0.05202191074593201,
+      "convergence_gap": 7.207996197206643e-05
+    },
+    {
+      "u": 11494185467,
+      "v": 3149542141,
+      "street_name": "(unnamed road)",
+      "highway": "residential",
+      "length_m": 113.4,
+      "delta_cost": -2152.7537,
+      "pct_change": -7.7415,
+      "redundancy_score": 0.6,
+      "betweenness": 0.04437570484936362,
+      "convergence_gap": 7.210996698142646e-05
+    },
+    {
+      "u": 3145224313,
+      "v": 307407124,
+      "street_name": "(unnamed road)",
+      "highway": "tertiary",
+      "length_m": 15.8,
+      "delta_cost": -831.9004,
+      "pct_change": -2.9916,
+      "redundancy_score": 0.5175812853853183,
+      "betweenness": 0.006586112453681328,
+      "convergence_gap": 6.974882747879062e-05
+    },
+    {
+      "u": 1607769715,
+      "v": 306850813,
+      "street_name": "(unnamed road)",
+      "highway": "residential",
+      "length_m": 91.5,
+      "delta_cost": -1707.527,
+      "pct_change": -6.1404,
+      "redundancy_score": 0.4759096221736838,
+      "betweenness": 0.013062671177702594,
+      "convergence_gap": 8.095547546096238e-05
+    },
+    {
+      "u": 3870459135,
+      "v": 3870459137,
+      "street_name": "(unnamed road)",
+      "highway": "residential",
+      "length_m": 47.1,
+      "delta_cost": -0.7455,
+      "pct_change": -0.0027,
+      "redundancy_score": 0.3047677803884392,
+      "betweenness": 0.003254390204607701,
+      "convergence_gap": 9.364587417854214e-05
+    }
+  ]
+}

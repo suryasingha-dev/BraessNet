@@ -1,0 +1,132 @@
+{
+  "baseline_system_cost_min_veh": 30426.7521,
+  "edges_tested": 75,
+  "edges_reliable": 75,
+  "braess_edges_found": 11,
+  "braess_edges_reliable": 11,
+  "braess_rate_pct": 14.67,
+  "max_improvement_pct": -4.5508,
+  "avg_improvement_braess_pct": -1.0312,
+  "top_braess_edges": [
+    {
+      "u": 1805801992,
+      "v": 12642655905,
+      "street_name": "(unnamed road)",
+      "highway": "residential",
+      "length_m": 106.0,
+      "delta_cost": -1384.6727,
+      "pct_change": -4.5508,
+      "redundancy_score": 0.8,
+      "betweenness": 0.01384340729405764,
+      "convergence_gap": 0.0001201784146728013
+    },
+    {
+      "u": 250100261,
+      "v": 250100198,
+      "street_name": "(unnamed road)",
+      "highway": "residential",
+      "length_m": 375.1,
+      "delta_cost": -858.8642,
+      "pct_change": -2.8227,
+      "redundancy_score": 0.3722790813482492,
+      "betweenness": 0.054715633766896206,
+      "convergence_gap": 0.00016327077212902874
+    },
+    {
+      "u": 464963949,
+      "v": 464963953,
+      "street_name": "Mathura Road",
+      "highway": "primary",
+      "length_m": 34.4,
+      "delta_cost": -167.8901,
+      "pct_change": -0.5518,
+      "redundancy_score": 0.31274936524710856,
+      "betweenness": 0.06559041060953838,
+      "convergence_gap": 0.00011531718767703366
+    },
+    {
+      "u": 464963953,
+      "v": 464963956,
+      "street_name": "Mathura Road",
+      "highway": "primary",
+      "length_m": 32.0,
+      "delta_cost": -167.8901,
+      "pct_change": -0.5518,
+      "redundancy_score": 0.31274936524710856,
+      "betweenness": 0.06682989033409845,
+      "convergence_gap": 0.00011531718767703366
+    },
+    {
+      "u": 4212134649,
+      "v": 464963949,
+      "street_name": "Mathura Road",
+      "highway": "primary",
+      "length_m": 58.8,
+      "delta_cost": -167.8901,
+      "pct_change": -0.5518,
+      "redundancy_score": 0.31274936524710856,
+      "betweenness": 0.06635552155062484,
+      "convergence_gap": 0.00011531718767702989
+    },
+    {
+      "u": 4212134662,
+      "v": 4212134649,
+      "street_name": "Mathura Road",
+      "highway": "primary",
+      "length_m": 86.1,
+      "delta_cost": -167.8901,
+      "pct_change": -0.5518,
+      "redundancy_score": 0.31274936524710856,
+      "betweenness": 0.06865085437388421,
+      "convergence_gap": 0.00011531718767702989
+    },
+    {
+      "u": 464963956,
+      "v": 442789388,
+      "street_name": "Mahatma Gandhi Marg",
+      "highway": "primary",
+      "length_m": 29.3,
+      "delta_cost": -167.8901,
+      "pct_change": -0.5518,
+      "redundancy_score": 0.31274936524710856,
+      "betweenness": 0.06606477939301199,
+      "convergence_gap": 0.00011531718767703366
+    },
+    {
+      "u": 4212134664,
+      "v": 4212134662,
+      "street_name": "Mathura Road",
+      "highway": "primary",
+      "length_m": 28.8,
+      "delta_cost": -167.8901,
+      "pct_change": -0.5518,
+      "redundancy_score": 0.31274936524710856,
+      "betweenness": 0.06350930884978322,
+      "convergence_gap": 0.00011531718767702989
+    },
+    {
+      "u": 464963941,
+      "v": 4212134664,
+      "street_name": "Mathura Road",
+      "highway": "primary",
+      "length_m": 50.2,
+      "delta_cost": -167.8901,
+      "pct_change": -0.5518,
+      "redundancy_score": 0.31274936524710856,
+      "betweenness": 0.06503953073195613,
+      "convergence_gap": 0.00011531718767703366
+    },
+    {
+      "u": 464964115,
+      "v": 367263013,
+      "street_name": "(unnamed road)",
+      "highway": "primary_link",
+      "length_m": 51.4,
+      "delta_cost": -0.6801,
+      "pct_change": -0.0022,
+      "redundancy_score": 0.21297469780114828,
+      "betweenness": 0.05945932160163224,
+      "convergence_gap": 0.00011549673291959685
+    }
+  ]
+}
