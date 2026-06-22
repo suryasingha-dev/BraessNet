@@ -1,6 +1,8 @@
 
 # BraessNet
-
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-research%20project-yellow)
 **A research-grade platform for detecting Braess's Paradox in real urban road networks.**
 
 Braess's Paradox is the counterintuitive transportation phenomenon where *adding* a road to a network can make *everyone's* travel time worse — and, conversely, *removing* the right road can make traffic flow better for the whole system, even though it looks like a loss of capacity. BraessNet automatically scans real city road networks (pulled from OpenStreetMap) to find road segments that are actively causing exactly this effect.
